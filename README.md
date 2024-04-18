@@ -1,6 +1,6 @@
 preview
 <h1 align="center">Hi 👋, I'm Sankalp Saurabh.</h1>
-<h3 align="center">A passionate backend developer from United States of America. I am currently working at Deutsche Bank as an Associate - Software Engineer II.</h3>
+<h3 align="center">A passionate backend developer currently working at Deutsche Bank as an Associate - Software Engineer II.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
